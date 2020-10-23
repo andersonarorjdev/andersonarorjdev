@@ -21,6 +21,9 @@ const MyBio = {
 <h4 align="right" display="inline">About me and my activities⬇️</h4>
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&title_color=8257e6&icon_color=617afc&text_color=FFFFFF&bg_color=251d37" alt="andersonarorjdev")
 
+![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=SatYu26&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&theme=radical)
 </div>
 
 
