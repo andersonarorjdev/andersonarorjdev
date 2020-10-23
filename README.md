@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ```bash
 const MyBio = {
-        "Working 🌟": "🔭 I’m currently working on myself projects and learning amazing technologies💻!",
-        "Studying 📚 📖": "I am studyng ReactJs⚛, ReactNative⚛, Prototyping and UI/UX Desing⚛📱💻",
-        "Oportunities🔍": "📈I'm looking to colaborate in projects that will give value to the comunity and the world 🌎",
-        "What i can teach you? 🤔":" To create amazing and responsives interfaces🤩(🤫I'm not a teacher, but i love teach peoples!🤗)",
-        "Languages": "🇧🇷Portuguese🇧🇷 and 🇺🇸English🇺🇸"
+ "Working 🌟": "🔭 I’m currently working on myself projects and learning amazing technologies💻!",
+ "Studying 📚 📖": "I am studyng ReactJs⚛, ReactNative⚛, Prototyping and UI/UX Desing⚛📱💻",
+ "Oportunities🔍": "📈I'm looking to colaborate in projects that will give value to the comunity and the world 🌎",
+ "What i can teach you? 🤔":" To create amazing and responsives interfaces🤩(🤫I'm not a teacher, but i love teach peoples!🤗)",
+  "Languages": "🇧🇷Portuguese🇧🇷 and 🇺🇸English🇺🇸"
        };
 ```
 
@@ -34,5 +34,5 @@ const MyBio = {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonarorjdev&langs_count=10&theme=dracula&layout=compact" alt="andersonarorjdev :: Top Langs" /></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&title_color=8257e6&icon_color=617afc&text_color=FFFFFF&bg_color=251d37" alt="andersonarorjdev :: Profile Stats" /></p>
 
-![Anderson's github stats](https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&title_color=8257e6&icon_color=617afc&text_color=FFFFFF&bg_color=251d37)
