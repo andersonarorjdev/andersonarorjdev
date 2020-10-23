@@ -18,13 +18,11 @@ const MyBio = {
 <h4 align="left" display="inline">What i'm using on my projects and learning:🚀</h4>
 <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonarorjdev&langs_count=10&theme=dracula&layout=compact" />
 
-<br>
-
 <h4 align="right" display="inline">About me and my activities⬇️</h4>
 <img align="right" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&theme=dracula" /> 
 </div>
 
-
+<br>
 <h2 align="center">Actualy i', working on this project👇</h2>
 
 <p width="100%" align="center">
