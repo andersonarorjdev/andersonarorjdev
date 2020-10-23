@@ -14,10 +14,10 @@ const MyBio = {
   };
 ```
 <br>
-<img align="left" display="block" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonarorjdev&langs_count=10&theme=dracula&layout=compact" width="40%" />
-<img align="right" display="block" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&theme=dracula" /> 
+<img align="left" display="inline" alt="andersonarorjdev Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonarorjdev&langs_count=10&theme=dracula&layout=compact" width="40%" />
+<img align="right" display="inline" alt="andersonarorjdev Github Stats" src="https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&theme=dracula" /> 
 
-
+<br><br><br><br><br><br><br><br>
 <h2 align="center">Actualy i', working on this project👇</h2>
 <p width="100%" align="center">
   <a align="center" href="https://github.com/andersonarorjdev/Pinterest-Clone" title="Pinterest Clone"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=Pinterest-Clone&theme=dracula"></a>
