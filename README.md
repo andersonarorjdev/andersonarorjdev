@@ -6,7 +6,7 @@
 ```bash
 const MyBio = {
 "Working 🌟": "🔭 I’m currently working on myself projects and learning amazing technologies💻!",
-"Studying 📚 📖": "I am studyng ReactJs<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">, ReactNative⚛, Prototyping and UI/UX Desing with Figma⚛📱💻",
+"Studying 📚 📖": "I am studyng ReactJs⚛, ReactNative⚛, Prototyping and UI/UX Desing with Figma⚛📱💻",
 "Oportunities🔍": "📈I'm looking to colaborate in projects that will give value to the comunity and the world 🌎",
  "What i can teach you? 🤔":"To create amazing interfaces🤩(🤫I'm not a teacher, but i love teach peoples!🤗)",
  "College 🎓": "System Analysis and Development at Unicesumar(In progress...⌛️)",
@@ -22,6 +22,10 @@ const MyBio = {
 
 <h2 align="center">Actualy i', working on this project👇</h2>
 
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/andersonarorjdev/Pinterest-Clone" title="Pinterest Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
+</p>
+<br><br>
 
 ### Where you can find me? Simple, here⬇️
  <a href="https://www.linkedin.com/in/andersonarorjdev/">
