@@ -23,9 +23,9 @@ const MyBio = {
 <h2 align="center">Actualy i', working on this project👇</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/andersonarorjdev/Pinterest-Clone" title="Pinterest Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
+  <a align="left" href="https://github.com/andersonarorjdev/Pinterest-Clone" title="Pinterest Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=PinterestClone&theme=dracula"></a>
 </p>
-<br><br>
+<br>
 
 ### Where you can find me? Simple, here⬇️
  <a href="https://www.linkedin.com/in/andersonarorjdev/">
