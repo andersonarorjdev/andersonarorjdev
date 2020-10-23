@@ -23,7 +23,7 @@ const MyBio = {
 <h2 align="center">Actualy i', working on this project👇</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/andersonarorjdev/Pinterest-Clone" title="Pinterest Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=PinterestClone&theme=dracula"></a>
+  <a align="left" href="https://github.com/andersonarorjdev/Pinterest-Clone" title="Pinterest Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=Pinterest-Clone&theme=dracula"></a>
 </p>
 <br>
 
