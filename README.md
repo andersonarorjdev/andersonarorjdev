@@ -14,11 +14,11 @@ const MyBio = {
   };
 ```
 <div>
-<br><br><br><br><br><br><br><br>
-<h4 align="left" display="inline">What i'm using on my projects and learning:🚀</h4>
+
+<span align="left" display="inline">What i'm using on my projects and learning:🚀</span>
 <img align="left" display="inline" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonarorjdev&langs_count=10&theme=dracula&layout=compact" />
 
-<h4 align="right" display="inline">About me and my activities⬇️</h4>
+<span align="right" display="inline">About me and my activities⬇️</span>
 <img align="right" display="inline" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&theme=dracula" /> 
 </div>
 
