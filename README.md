@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 ```bash
 const MyBio = {
-               "Working 🌟": "🔭 I’m currently working on myself projects and learning amazing technologies💻!",
-               "Studying 📚 📖": "I am studyng ReactJs⚛, ReactNative⚛, Prototyping and UI/UX Desing⚛📱💻",
-               "Oportunities🔍": "📈I'm looking to colaborate in projects that will give value to the comunity and the world 🌎",
-               "What i can teach you? 🤔":" To create amazing and responsives interfaces🤩(🤫I'm not a teacher, but i love teach peoples!🤗)",
-               "Languages": "🇧🇷Portuguese🇧🇷 and 🇺🇸English🇺🇸"
-               };
+        "Working 🌟": "🔭 I’m currently working on myself projects and learning amazing technologies💻!",
+        "Studying 📚 📖": "I am studyng ReactJs⚛, ReactNative⚛, Prototyping and UI/UX Desing⚛📱💻",
+        "Oportunities🔍": "📈I'm looking to colaborate in projects that will give value to the comunity and the world 🌎",
+        "What i can teach you? 🤔":" To create amazing and responsives interfaces🤩(🤫I'm not a teacher, but i love teach peoples!🤗)",
+        "Languages": "🇧🇷Portuguese🇧🇷 and 🇺🇸English🇺🇸"
+       };
 ```
 
 <h4 align="center">Top langs :tongue:</h4>
