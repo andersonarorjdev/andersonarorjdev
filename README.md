@@ -27,8 +27,8 @@ const MyBio = {
 
 <br>
 
-<h1> Where you can find me? Simple, here⬇️</h1><br>
-
+<h1> Where you can find me? Simple, here⬇️</h1>
+<p align="center">
 <a href="https://twitter.com/andersonarrjdev">
   <img align="center" alt="Anderson's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -44,6 +44,9 @@ const MyBio = {
 <a href="https://www.behance.net/andersonjuniorarorj">
   <img align="center" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
 </a>
+</p>
+
+
                                                                                                                             
 <br><br>
   <p align="center"><img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="250px" width="250px"></p>
