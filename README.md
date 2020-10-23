@@ -30,19 +30,19 @@ const MyBio = {
 <h1> Where you can find me? Simple, here⬇️</h1><br>
 
 <a href="https://twitter.com/andersonarrjdev">
-  <img align="left" alt="Anderson's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Anderson's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/andersonarorjdev/"">
-  <img align="left" alt="Anderson's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Anderson's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/andersonarorjdev">
-  <img align="left" alt="Anderson's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Anderson's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/andersonarorjdev">
-  <img align="left" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.behance.net/andersonjuniorarorj">
-  <img align="left" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+  <img align="center" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
 </a>
                                                                                                                             
 <br><br>
