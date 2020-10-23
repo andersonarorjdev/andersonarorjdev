@@ -1,5 +1,4 @@
-### console.log("Hello World!"); 👋
-
+### console.log("Hello World!"); 👋 <img src="https://media.giphy.com/media/YkXNjAkG7CfEVx3gcy/giphy.gif" width="40px" height="40px">
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{andersonarorjdev}/count.svg" alt="andersonarorjdev :: Visitor's Count" /></p>
 
@@ -28,19 +27,23 @@ const MyBio = {
 
 <br>
 
-<h1> Where you can find me? Simple, here⬇️</h1>
- <a href="https://www.linkedin.com/in/andersonarorjdev/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anderson Junior's LinkedIn Profile" height="30" width="30">
-  </a>
-  
-<a href="https://www.instagram.com/andersonarorjdev/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Anderson Junior's Instagram Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://twitter.com/andersonarrjdev">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Anderson Junior's Twitter Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://www.behance.net/andersonjuniorarorj">
-    <img src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="Anderson Junior's Twitter Profile" height="30" width="30">
-  </a>
+<h1> Where you can find me? Simple, here⬇️</h1><br>
+
+<a href="https://twitter.com/andersonarrjdev">
+  <img align="left" alt="Anderson's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/andersonarorjdev/"">
+  <img align="left" alt="Anderson's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/andersonarorjdev">
+  <img align="left" alt="Anderson's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/andersonarorjdev">
+  <img align="left" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.behance.net/andersonjuniorarorj">
+  <img align="left" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+</a>
+                                                                                                                            
+<br><br>
+  <p align="center"><img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="250px" width="250px"></p>
