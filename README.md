@@ -28,11 +28,9 @@ const MyBio = {
   };
 ```
 
-<h4 align="center">Top langs :tongue:</h4>
-
-<h2 color="purple">About me and my activities⬇️</h2>
-
+<h4 align="center">What i'm using on my projects and learning:🚀</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonarorjdev&langs_count=10&theme=dracula&layout=compact" alt="andersonarorjdev :: Top Langs" /></p>
 
+<h2 align="center">About me and my activities⬇️</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&title_color=8257e6&icon_color=617afc&text_color=FFFFFF&bg_color=251d37" alt="andersonarorjdev :: Profile Stats" /></p>
 
