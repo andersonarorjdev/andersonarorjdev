@@ -30,19 +30,19 @@ const MyBio = {
 <h1> Where you can find me? Simple, here⬇️</h1>
 <p align="center">
 <a href="https://twitter.com/andersonarrjdev">
-  <img align="center" alt="Anderson's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Anderson's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/andersonarorjdev/"">
-  <img align="center" alt="Anderson's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Anderson's Linkdein" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/andersonarorjdev">
-  <img align="center" alt="Anderson's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Anderson's Github" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/andersonarorjdev">
-  <img align="center" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Neel's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.behance.net/andersonjuniorarorj">
-  <img align="center" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+  <img align="center" alt="Neel's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
 </a>
 </p>
 
@@ -50,3 +50,4 @@ const MyBio = {
                                                                                                                             
 <br><br>
   <p align="center"><img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="250px" width="250px"></p>
+  <p>From 🌟: Anderson arorj </p>
