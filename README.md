@@ -13,9 +13,12 @@ const MyBio = {
 "Languages": "🇧🇷Portuguese🇧🇷 and 🇺🇸English🇺🇸"
   };
 ```
-<br>
-<img align="left" display="inline" alt="andersonarorjdev Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonarorjdev&langs_count=10&theme=dracula&layout=compact" width="40%" />
+<div width="50%">
+ <img align="left" display="inline" alt="andersonarorjdev Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonarorjdev&langs_count=10&theme=dracula&layout=compact" width="40%" />
+</div>
+<div>
 <img align="right" display="inline" alt="andersonarorjdev Github Stats" src="https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&theme=dracula" /> 
+</div>
 
 <br><br><br><br><br><br><br><br>
 <h2 align="center">Actualy i', working on this project👇</h2>
