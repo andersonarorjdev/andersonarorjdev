@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonarorjdev&langs_count=10&theme=tokyonight&layout=compact" alt="andersonarorjdev :: Top Langs" /></p>
 
 
-![Anderson's github stats](https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&title_color=6178f7&icon_color=8257e6&text_color=1e1e6&bg_color=251d37)
+![Anderson's github stats](https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&title_color=8257e6&icon_color=617afc&text_color=FFFFFF&bg_color=251d37)
