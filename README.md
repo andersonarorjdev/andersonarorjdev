@@ -24,9 +24,8 @@ const MyBio = {
 <p width="100%" align="center">
   <a align="left" href="https://github.com/andersonarorjdev/Pinterest-Clone" title="Pinterest Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=Pinterest-Clone&theme=dracula"></a>
 </p>
-<br><br>
 
-<br>### Where you can find me? Simple, here⬇️
+### Where you can find me? Simple, here⬇️
  <a href="https://www.linkedin.com/in/andersonarorjdev/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anderson Junior's LinkedIn Profile" height="30" width="30">
   </a>
