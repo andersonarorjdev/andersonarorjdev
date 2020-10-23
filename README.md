@@ -16,16 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <h4 align="center">Visitor's count :eyes:</h4>
-```
-const MyBio = _ =>{
-  "Working 🌟": "🔭 I’m currently working on myself projects and learning amazing technologies💻!",
-  "Studying 📚 📖": "I am studyng ReactJs⚛, ReactNative⚛, Prototyping and UI/UX Desing⚛📱💻",
-  "Oportunities🔍": "📈I'm looking to colaborate in projects that will give value to the comunity and the world 🌎",
-  "What i can teach you? 🤔":" To create amazing and responsives interfaces🤩(🤫I'm not a teacher, but i love teach peoples!🤗)",
-  "Languages": "🇧🇷Portuguese🇧🇷 and 🇺🇸English🇺🇸"
-}
-```
 <p align="center"><img src="https://profile-counter.glitch.me/{andersonarorjdev}/count.svg" alt="andersonarorjdev :: Visitor's Count" /></p>
+```
+   const MyBio = _ =>{
+                      "Working 🌟": "🔭 I’m currently working on myself projects and learning amazing technologies💻!",
+                      "Studying 📚 📖": "I am studyng ReactJs⚛, ReactNative⚛, Prototyping and UI/UX Desing⚛📱💻",
+                      "Oportunities🔍": "📈I'm looking to colaborate in projects that will give value to the comunity and the world 🌎",
+                      "What i can teach you? 🤔":" To create amazing and responsives interfaces🤩(🤫I'm not a teacher, but i love teach peoples!🤗)",
+                      "Languages": "🇧🇷Portuguese🇧🇷 and 🇺🇸English🇺🇸"
+                    }
+```
+
 <h4 align="center">Top langs :tongue:</h4>
 
 <h2 color="purple">About me and my activities⬇️</h2>
