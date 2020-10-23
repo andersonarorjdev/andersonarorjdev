@@ -18,7 +18,7 @@ const MyBio = {
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonarorjdev&langs_count=10&theme=dracula&layout=compact" alt="andersonarorjdev :: Top Langs" width="50%"/></p>
 
 <h4 align="right" display="inline">About me and my activities⬇️</h4>
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&title_color=8257e6&icon_color=617afc&text_color=FFFFFF&bg_color=251d37" alt="andersonarorjdev :: Profile Stats"  width="30%"/></p>
+<span align="right"><img src="https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&title_color=8257e6&icon_color=617afc&text_color=FFFFFF&bg_color=251d37" alt="andersonarorjdev :: Profile Stats"  width="50%"/></span>
 
 <h2 align="center">Actualy i', working on this project👇</h2>
 
