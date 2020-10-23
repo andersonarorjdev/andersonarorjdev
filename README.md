@@ -23,10 +23,10 @@ const MyBio = {
 <h2 align="center">Actualy i', working on this project👇</h2>
 
 <p width="100%" align="center">
-  <a align="center" href="https://github.com/andersonarorjdev/Pinterest-Clone" title="Pinterest Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=Pinterest-Clone&theme=dracula"></a>
+  <a align="center" href="https://github.com/andersonarorjdev/Pinterest-Clone" title="Pinterest Clone"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=Pinterest-Clone&theme=dracula"></a>
 </p>
 
-br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <h1> Where you can find me? Simple, here⬇️</h1>
  <a href="https://www.linkedin.com/in/andersonarorjdev/">
