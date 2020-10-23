@@ -43,3 +43,11 @@ const MyBio = {
 <a href="https://www.instagram.com/andersonarorjdev/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Anderson Junior's Instagram Profile" height="30" width="30">
   </a>
+  
+  <a href="https://twitter.com/andersonarrjdev">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Anderson Junior's Twitter Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://www.behance.net/andersonjuniorarorj">
+    <img src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="Anderson Junior's Twitter Profile" height="30" width="30">
+  </a>
