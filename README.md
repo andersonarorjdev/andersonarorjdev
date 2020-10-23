@@ -23,6 +23,24 @@ const MyBio = {
 <h2 align="center">Actualy i', working on this project👇</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/andersonarorjdev/Pinterest-Clone" title="Pinterest Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=Pinterest-Clone&theme=dracula"></a>
+  <a align="center" href="https://github.com/andersonarorjdev/Pinterest-Clone" title="Pinterest Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=Pinterest-Clone&theme=dracula"></a>
 </p>
 
+br><br><br><br><br><br>
+
+<h1> Where you can find me? Simple, here⬇️</h1>
+ <a href="https://www.linkedin.com/in/andersonarorjdev/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anderson Junior's LinkedIn Profile" height="30" width="30">
+  </a>
+  
+<a href="https://www.instagram.com/andersonarorjdev/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Anderson Junior's Instagram Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://twitter.com/andersonarrjdev">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Anderson Junior's Twitter Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://www.behance.net/andersonjuniorarorj">
+    <img src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="Anderson Junior's Twitter Profile" height="30" width="30">
+  </a>
