@@ -15,14 +15,13 @@ const MyBio = {
 ```
 <div>
 
-<span align="left" display="inline">What i'm using on my projects and learning:🚀</span>
+<span align="left" display="block">What i'm using on my projects and learning:🚀</span>
 <img align="left" display="inline" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonarorjdev&langs_count=10&theme=dracula&layout=compact" />
 
-<span align="right" display="inline">About me and my activities⬇️</span>
+<span align="right" display="block">About me and my activities⬇️</span>
 <img align="right" display="inline" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&theme=dracula" /> 
 </div>
 
-<br><br><br><br><br><br><br><br>
 <h2 align="center">Actualy i', working on this project👇</h2>
 
 <p width="100%" align="center">
