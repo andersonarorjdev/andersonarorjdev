@@ -21,13 +21,12 @@ const MyBio = {
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&title_color=8257e6&icon_color=617afc&text_color=FFFFFF&bg_color=251d37" alt="andersonarorjdev :: Profile Stats" /></p>
 
 <h2 align="center">Actualy i', working on this project👇</h2>
-
 <p width="100%" align="center">
   <a align="left" href="https://github.com/andersonarorjdev/Pinterest-Clone" title="Pinterest Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=Pinterest-Clone&theme=dracula"></a>
 </p>
-<br>
+<br><br>
 
-### Where you can find me? Simple, here⬇️
+<br>### Where you can find me? Simple, here⬇️
  <a href="https://www.linkedin.com/in/andersonarorjdev/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anderson Junior's LinkedIn Profile" height="30" width="30">
   </a>
