@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{andersonarorjdev}/count.svg" alt="andersonarorjdev :: Visitor's Count" /></p>
-```
+
+```bash
    const MyBio = _ =>{
                       "Working 🌟": "🔭 I’m currently working on myself projects and learning amazing technologies💻!",
                       "Studying 📚 📖": "I am studyng ReactJs⚛, ReactNative⚛, Prototyping and UI/UX Desing⚛📱💻",
