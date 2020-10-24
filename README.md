@@ -13,16 +13,16 @@ const MyBio = {
   };
 ```
 <div width="50%">
- <img align="left" display="inline" alt="andersonarorjdev Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonarorjdev&langs_count=10&theme=dracula&layout=compact&bg_color=7159c1&title_color=00dbff&text_color=ffffff"" width="40%" />
+ <img align="left" display="inline" alt="andersonarorjdev Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonarorjdev&langs_count=10&theme=dracula&layout=compact&bg_color=7159c1&title_color=00dbff&text_color=ffffff&icon_color=00dbff" width="40%" />
 </div>
 <div>
-<img align="right" display="inline" alt="andersonarorjdev Github Stats" src="https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&theme=dracula&bg_color=7159c1&title_color=00dbff&text_color=ffffff""  width="45%"/> 
+<img align="right" display="inline" alt="andersonarorjdev Github Stats" src="https://github-readme-stats.vercel.app/api?username=andersonarorjdev&show_icons=true&theme=dracula&bg_color=7159c1&title_color=00dbff&text_color=ffffff&icon_color=00dbff"  width="45%"/> 
 </div>
 
 <br><br><br><br><br><br><br><br>
 <h2 align="center">Actualy i', working on this project👇</h2>
 <p width="100%" align="center">
-  <a align="center" href="https://github.com/andersonarorjdev/Pinterest-Clone" title="Pinterest Clone"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=Pinterest-Clone&theme=dracula&bg_color=7159c1&title_color=00dbff&text_color=ffffff"></a>
+  <a align="center" href="https://github.com/andersonarorjdev/Pinterest-Clone" title="Pinterest Clone"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=Pinterest-Clone&theme=dracula&bg_color=7159c1&title_color=00dbff&text_color=ffffff&icon_color=00dbff"></a>
 </p>
 
 <br>
