@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anderson Junior</h1><p><img src="https://img1.picmix.com/output/stamp/normal/3/9/1/4/514193_ab71c.gif" width="40px" height="40px"></p>
-<h3 align="center">Frontend Developer and UI/UX enthusiastic.</h3>👋 
+<h1 align="center">Hi 👋, I'm Anderson Junior <img src="https://img1.picmix.com/output/stamp/normal/3/9/1/4/514193_ab71c.gif" width="40px" height="40px"></h1>
+<h3 align="center">Frontend Developer and UI/UX enthusiastic.</h3> 
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{andersonarorjdev}/count.svg" alt="andersonarorjdev :: Visitor's Count" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andersonarorjdev&theme=dracula&row=1&column=7" alt="andersonarorjdev" /></a> </p>
