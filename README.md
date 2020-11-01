@@ -28,19 +28,19 @@ const MyBio = {
 <h1 align="center"> Where you can find me? Simple, here<img src="https://media.giphy.com/media/hJl9v892gjwLEdHoZv/giphy.gif" width="60px" height="60px"></h1>
 <p align="center">
 <a href="https://twitter.com/andersonarrjdev">
-  <img align="center" alt="Anderson's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Anderson's Twitter" width="60px" height="60px"  src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" />
 </a>
 <a href="https://www.linkedin.com/in/andersonarorjdev/"">
-  <img align="center" alt="Anderson's Linkdein" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Anderson's Linkdein" width="100px" height="100px" src="https://media.giphy.com/media/di7V8tnOyYJMaJ9H8v/giphy.gif" />
 </a>
 <a href="https://github.com/andersonarorjdev">
-  <img align="center" alt="Anderson's Github" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Anderson's Github" width="60px" heigth="60px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" />
 </a>
 <a href="https://instagram.com/andersonarorjdev">
-  <img align="center" alt="Neel's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Neel's Instagram" width="60px" height="60px" src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif" />
 </a>
 <a href="https://www.behance.net/andersonjuniorarorj">
-  <img align="center" alt="Neel's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+  <img align="center" alt="Neel's Instagram" width="60px" height="60px" src="https://media.giphy.com/media/KCSVj2UGUjF2znaKxy/giphy.gif" />
 </a>
 </p>
 
