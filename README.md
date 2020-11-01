@@ -1,6 +1,8 @@
 <img align="left" src="./hi.png"><h1 align="center">Hi 👋, I'm Anderson Junior <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="70px" height="70px"></h1>
-<h3 align="center">Frontend Developer and UI/UX enthusiastic.<img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="70px" height="70px"></h3> 
-<h4 align="center">Visitor's Numbers...<img="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="100px" height="100px"></h4>
+<h3 align="center">Frontend Developer and UI/UX enthusiastic.<img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="50px" height="50px">
+<img src="https://media.giphy.com/media/YondZW6AMjgTEHevF0/giphy.gif" width="50px" height="50px">
+</h3> 
+<h4 align="center">Visitor's Numbers...<img src="https://media.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy.gif" width="40px" height="40px"></h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{andersonarorjdev}/count.svg" alt="andersonarorjdev :: Visitor's Count" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andersonarorjdev&theme=dracula&row=1&column=7" alt="andersonarorjdev" /></a> </p>
 
@@ -16,7 +18,7 @@ const MyBio = {
 ```
  <img align="left" display="inline" alt="andersonarorjdev Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonarorjdev&langs_count=10&theme=dracula&layout=compact" />
 </div>
-<h2 align="center">Actualy i', working on this project👇</h2>
+<h2 align="center">Actualy i', working on this project<img src="https://media.giphy.com/media/hJl9v892gjwLEdHoZv/giphy.gif" width="60px" height="60px"></h2>
 <p width="100%" align="center">
   <a align="center" href="https://github.com/andersonarorjdev/CSS-TRAINING" title="CSS-TRAINING"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=CSS-TRAINING&theme=dracula"></a>
 </p>
