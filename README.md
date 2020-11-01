@@ -1,6 +1,6 @@
-<img align="left" src="./hi.png"><h1 align="center">Hi 👋, I'm Anderson Junior <img src="https://img1.picmix.com/output/stamp/normal/3/9/1/4/514193_ab71c.gif" width="40px" height="40px"></h1>
-<h3 align="center">Frontend Developer and UI/UX enthusiastic.</h3> 
-<h4 align="center">Visitor's count :eyes:</h4>
+<img align="left" src="./hi.png"><h1 align="center">Hi 👋, I'm Anderson Junior <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="70px" height="70px"></h1>
+<h3 align="center">Frontend Developer and UI/UX enthusiastic.<img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="70px" height="70px"></h3> 
+<h4 align="center">Visitor's Numbers...<img="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="100px" height="100px"></h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{andersonarorjdev}/count.svg" alt="andersonarorjdev :: Visitor's Count" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andersonarorjdev&theme=dracula&row=1&column=7" alt="andersonarorjdev" /></a> </p>
 
@@ -23,7 +23,7 @@ const MyBio = {
 
 <br>
 
-<h1> Where you can find me? Simple, here⬇️</h1>
+<h1 align="center"> Where you can find me? Simple, here<img src="https://media.giphy.com/media/hJl9v892gjwLEdHoZv/giphy.gif" width="60px" height="60px"></h1>
 <p align="center">
 <a href="https://twitter.com/andersonarrjdev">
   <img align="center" alt="Anderson's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -46,4 +46,6 @@ const MyBio = {
                                                                                                                             
 <br><br>
   <p align="center"><img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="250px" width="250px"></p>
-  <p>From 🌟: Anderson arorj </p>
+  <img src="./bye.png" align="right">
+  <p align="left">From 🌟: Anderson arorj </p>
+  
