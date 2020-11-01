@@ -19,10 +19,10 @@ const MyBio = {
 </div>
 <h2 align="center">Actualy i', working on this projects<img src="https://media.giphy.com/media/hJl9v892gjwLEdHoZv/giphy.gif" width="60px" height="60px"></h2>
 <p align="right">
-  <a align="center" href="https://github.com/andersonarorjdev/CSS-TRAINING" title="CSS-TRAINING"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=CSS-TRAINING&theme=dracula"></a>
+  <a width="50%" align="center" href="https://github.com/andersonarorjdev/CSS-TRAINING" title="CSS-TRAINING"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=CSS-TRAINING&theme=dracula"></a>
 </p>
 <p align="right">
-  <a align="center" href="https://github.com/andersonarorjdev/Hallowen-Interface" title="CSS-TRAINING"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=Hallowen-Interface&theme=dracula"></a>
+  <a width="50%" align="center" href="https://github.com/andersonarorjdev/Hallowen-Interface" title="CSS-TRAINING"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=Hallowen-Interface&theme=dracula"></a>
 </p>
 
 <br>
