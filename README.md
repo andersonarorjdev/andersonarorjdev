@@ -22,7 +22,7 @@ const MyBio = {
   <a width="50%" align="center" href="https://github.com/andersonarorjdev/CSS-TRAINING" title="CSS-TRAINING"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=CSS-TRAINING&theme=dracula"></a>
 </p>
 <p align="right">
-  <a width="50%" align="center" href="https://github.com/andersonarorjdev/Hallowen-Interface" title="CSS-TRAINING"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=Hallowen-Interface&theme=dracula"></a>
+  <a width="50%" align="center" href="https://github.com/andersonarorjdev/React-Theme-Switcher" title="CSS-TRAINING"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=React-Theme-Switcher&theme=dracula"></a>
 </p>
 
 <br>
