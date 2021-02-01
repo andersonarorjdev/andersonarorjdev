@@ -17,12 +17,6 @@ const MyBio = {
 ```
  <img align="left" display="inline" alt="andersonarorjdev Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonarorjdev&langs_count=10&theme=dracula&layout=compact" />
 </div>
-<h2 align="center">Actualy i', working on this projects<img src="https://media.giphy.com/media/hJl9v892gjwLEdHoZv/giphy.gif" width="60px" height="60px"></h2>
-<p align="right">
-  <a width="50%" align="center" href="https://github.com/andersonarorjdev/CSS-TRAINING" title="CSS-TRAINING"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=CSS-TRAINING&theme=dracula"></a>
-</p>
-<p align="right">
-  <a width="50%" align="center" href="https://github.com/andersonarorjdev/YouTube-React" title="CSS-TRAINING"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonarorjdev&repo=YouTube-React&theme=dracula"></a>
 </p>
 
 <br>
@@ -31,9 +25,6 @@ const MyBio = {
 <p align="center">
 <a href="https://twitter.com/andersonarrjdev">
   <img align="center" alt="Anderson's Twitter" width="60px" height="60px"  src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" />
-</a>
-<a href="https://www.linkedin.com/in/andersonarorjdev/"">
-  <img align="center" alt="Anderson's Linkdein" width="100px" height="100px" src="https://media.giphy.com/media/di7V8tnOyYJMaJ9H8v/giphy.gif" />
 </a>
 <a href="https://github.com/andersonarorjdev">
   <img align="center" alt="Anderson's Github" width="60px" heigth="60px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" />
