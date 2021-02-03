@@ -8,7 +8,7 @@
 ```bash
 const MyBio = {
 "Working 🌟": "🔭 I’m currently working on myself projects and learning amazing technologies💻!",
-"Studying 📚 📖": "I am studyng ReactJs⚛, ReactNative⚛, Prototyping and UI/UX Desing with Figma⚛📱💻",
+"Studying 📚 📖": "I am studyng ReactJs⚛, ReactNative⚛, PHP🐘 Prototyping and UI/UX Desing with Figma⚛📱💻",
 "Oportunities🔍": "📈I'm looking to colaborate in projects that will give value to the comunity and the world 🌎",
  "What i can teach you? 🤔":"To create amazing interfaces🤩(🤫I'm not a teacher, but i love teach peoples!🤗)",
  "College 🎓": "System Analysis and Development at Unicesumar(In progress...⌛️)",
