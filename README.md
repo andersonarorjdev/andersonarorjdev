@@ -1,5 +1,5 @@
 <img align="left" src="./hi.png"><h1 align="center">Hi 👋, I'm Anderson Junior <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="70px" height="70px"></h1>
-<h3 align="center">Frontend Developer and UI/UX enthusiastic.<p align="center"><img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="200px" width="200px"></p>
+<h3 align="center">Fullstack Developer and UI/UX enthusiastic.<p align="center"><img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="200px" width="200px"></p>
 </h3> 
 <h4 align="center">Visitor's Numbers...<img src="https://media.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy.gif" width="40px" height="40px"></h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{andersonarorjdev}/count.svg" alt="andersonarorjdev :: Visitor's Count" /></p>
